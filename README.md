@@ -15,6 +15,19 @@ Built with React and Vite.
 - **Insights & reports** — summaries and reports to share with a doctor
 - **Community** — connect with other people living with psoriasis
 
+## Screenshots
+
+![Home dashboard](01-home-dashboard.png)
+![Health tracking](02-health-tracking-hub.png)
+![Food diary](03-food-diary.png)
+![Skin Analyzer](04-skin-analyzer.png)
+![AI Health Coach](05-ai-health-coach-locked.png)
+![Treatment tracking](06-treatment-tracking.png)
+![Insights](07-insights.png)
+![Reports](08-reports.png)
+![Community forum](09-community-forum.png)
+![Specialist finder](10-specialist-finder-preview.png)
+
 ## Status
 
 In active development. On the roadmap: a daily Skin Forecast, a photo timelapse view, and an improved body-zone map.
@@ -25,6 +38,6 @@ In active development. On the roadmap: a daily Skin Forecast, a photo timelapse 
 
 ## About this repository
 
-This public repository is a showcase only — it contains this README and nothing else. The full source code lives in a private repository and is not published here.
+This public repository is a showcase only — it contains this README and app screenshots. The full source code lives in a private repository and is not published here.
 
 Built by [SAVDEV Software Studio](https://savdev.org).
